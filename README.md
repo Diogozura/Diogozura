@@ -2,7 +2,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact)](https://github.com/Diogozura/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogozura&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogozura&show_icons=true)
 <!--
 **Diogozura/Diogozura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

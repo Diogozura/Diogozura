@@ -2,9 +2,8 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
-[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api Diogozura )] (https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Diogozura/Diogozura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

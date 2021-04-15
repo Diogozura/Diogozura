@@ -2,7 +2,13 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact&show_icons=true&theme=radical)](https://github.com/Diogozura/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogozura&show_icons=true&theme=radical)
+
+
+[![diogau (2)](https://user-images.githubusercontent.com/65250673/114950058-a8096300-9e28-11eb-9d2d-6944b900219b.png)
+](https://github.com/Diogozura/)
+|
+[![zuralogo png](https://user-images.githubusercontent.com/65250673/114950394-4d243b80-9e29-11eb-8cc9-d6c1ea3b7f7a.png)
+](https://github.com/rafaballerini)
 <!--
 **Diogozura/Diogozura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

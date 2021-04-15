@@ -1,7 +1,7 @@
 ### Hi Diogo Zura here  👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact)](https://github.com/Diogozura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact)](https://github.com/Diogozura/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogozura&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogozura&show_icons=true)
 <!--

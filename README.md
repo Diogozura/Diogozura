@@ -1,7 +1,5 @@
-### Hi there 👋
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
+### Hi Diogo Zura here  👋
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact)](https://github.com/Diogozura/github-readme-stats)
 

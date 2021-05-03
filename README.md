@@ -5,11 +5,11 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact&langs_count=8&theme=dracula"/>
 <div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Diogo-Js" height="35" width="30" src="https://user-images.githubusercontent.com/65250673/116878996-76e5ac80-abf6-11eb-8a2c-5cb9362169c6.png">
-  <img align="center" alt="Diogo-HTML" height="35" width="30" src="https://user-images.githubusercontent.com/65250673/116878234-726cc400-abf5-11eb-82a7-d6615cfe4dd7.png">
-  <img align="center" alt="Rafa-CSS" height="35" width="30" src="https://user-images.githubusercontent.com/65250673/116878300-89abb180-abf5-11eb-8210-7ab2cf7ec2ec.png">
-  <img align="center" alt="Diogo-React" height="25" width="25" src="https://user-images.githubusercontent.com/65250673/116878887-54ec2a00-abf6-11eb-8082-dfa8861de4a9.png">
-  <img align="center" alt="Diogo-django" height="30" width="45" src="https://user-images.githubusercontent.com/65250673/116879306-e65b9c00-abf6-11eb-8b4e-9ed94f62fceb.jpg">
+  <img align="center" alt="Diogo-Js" height="50" width="40" src="https://user-images.githubusercontent.com/65250673/116888280-a5b55000-ac01-11eb-9515-73a7379662ce.png">
+  <img align="center" alt="Diogo-HTML" height="50" width="40" src="https://user-images.githubusercontent.com/65250673/116887436-af8a8380-ac00-11eb-8d43-7a91f8c48ec1.png">
+  <img align="center" alt="Diogo-CSS" height="50" width="40" src="https://user-images.githubusercontent.com/65250673/116888182-87e7eb00-ac01-11eb-85ad-b2b6ae2e7f20.png">
+  <img align="center" alt="Diogo-React" height="50" width="50" src="https://user-images.githubusercontent.com/65250673/116888116-77d00b80-ac01-11eb-8159-e54b614c6c5d.png">
+  <img align="center" alt="Diogo-django" height="50" width="100" src="https://user-images.githubusercontent.com/65250673/116887269-7fdb7b80-ac00-11eb-8ae5-2beda5183478.jpg">
 </div>
  
 ##

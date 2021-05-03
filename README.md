@@ -1,8 +1,6 @@
-### Hi Diogo Zura here  👋
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact&show_icons=true&theme=radical)](https://github.com/Diogozura/)
- ![js](![javascript](https://user-images.githubusercontent.com/65250673/116868075-83610980-abe4-11eb-8098-bd3189ce91e8.png)
-)
-</div>
-
+## Oiii! Eu sou o Diogo Zura
+ <div>
+  <a href="https://github.com/diogozura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogozura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact&langs_count=8&theme=dracula"/>
+<div>

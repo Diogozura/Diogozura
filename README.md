@@ -1,4 +1,4 @@
-## Opa! Diogo Zura aqui 
+## Opa! Diogo Zura aqui  <img align="center" alt="Diogo-logo" height="70" width="75" src="https://user-images.githubusercontent.com/65250673/116893738-b072e380-ac07-11eb-946d-9c79f8f6d81c.png">
  <div>
   <a href="https://github.com/diogozura">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diogozura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -12,3 +12,9 @@
   <img align="center" alt="Diogo-django" height="30" width="45" src="https://user-images.githubusercontent.com/65250673/116879306-e65b9c00-abf6-11eb-8b4e-9ed94f62fceb.jpg">
 </div>
  
+##
+
+<div>
+  <a href = "mailto: contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>

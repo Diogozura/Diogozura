@@ -1,8 +1,8 @@
 ## Opa! Diogo Zura aqui 
  <div>
   <a href="https://github.com/diogozura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogozura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diogozura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogozura&layout=compact&langs_count=8&theme=dracula"/>
 <div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Diogo-Js" height="35" width="30" src="https://user-images.githubusercontent.com/65250673/116878996-76e5ac80-abf6-11eb-8a2c-5cb9362169c6.png">

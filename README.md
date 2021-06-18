@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=diogozura&show_icons=true&locale=en" alt="diogozura" /></p>
 
-<p><img align="center"  sr  c="https://github-readme-streak-stats.herokuapp.com/?user=diogozura&" alt="diogozura" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=diogozura&" alt="diogozura" /></p>
